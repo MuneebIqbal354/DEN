@@ -1,3 +1,5 @@
+<h1 align="center">Task No. 1</h1>
+
 # Red-Blue Nim Game
 The Red-Blue Nim Game is a two-player strategy game implemented in Python, where players take turns removing marbles from two piles (red and blue). The game is based on the classic Nim game but with two different versions: the Standard Version and the Misère Version.
 ### Game Rules
