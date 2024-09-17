@@ -1,6 +1,6 @@
 <h1 align="center">Task No. 2</h1>
 
-# Web Scraper: Largest U.S. Companies by Revenue
+# Web Scraper: Largest U.S. Companies
 
 This script extracts a table of the largest companies in the United States by revenue from a Wikipedia page and exports it as a CSV file.
 
