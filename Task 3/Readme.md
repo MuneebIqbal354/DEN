@@ -8,6 +8,8 @@ This project performs data analysis and visualization on a dataset containing pl
 
 The dataset used in this project is `Placement_Data_Full_Class.csv`, which contains information about the students' academic performance, work experience, placement status, and salary offered.
 
+Dataset link: https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement/data
+
 ## Prerequisites
 
 Before running the code, make sure you have the following installed:
@@ -43,9 +45,9 @@ The following analyses and visualizations are performed in the Jupyter notebook:
    The dataset is loaded into a variiable `data_frame` and the `sl_no` column is set as the index.
 
      ```python
-         data_frame = pd.read_csv("Placement_Data_Full_Class.csv")
-         data_frame = data_frame.set_index('sl_no')
-         data_frame
+     data_frame = pd.read_csv("Placement_Data_Full_Class.csv")
+     data_frame = data_frame.set_index('sl_no')
+     data_frame
      ```
      ![image](https://github.com/user-attachments/assets/2e09d671-e381-4a83-a841-5a35fa2405ec)
 
