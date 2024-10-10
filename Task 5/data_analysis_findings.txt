@@ -1,0 +1,21 @@
+
+Data Analysis Findings:
+1. Mean values per subject:
+Roll number    50.50
+Marks          44.88
+dtype: float64
+
+2. Median values per subject:
+Roll number    50.5
+Marks          43.0
+dtype: float64
+
+3. Mode values per subject:
+Roll number     1
+Marks          61
+dtype: int64
+
+Visualization Insights:
+1. The bar plot shows the distribution of marks for each student across all subjects.
+2. The pie chart highlights the proportion of marks for Student 1 in different subjects.
+3. The dot plot illustrates individual marks, helping to observe the spread and distribution of scores across students.
