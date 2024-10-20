@@ -99,7 +99,7 @@ class TaskManager:
         print(f"Tasks sorted by {sort_by.lower()}.")
         self.show_tasks()
 
-# Menu for Task Manager
+
 def task_manager_menu():
     manager = TaskManager()
     
@@ -139,5 +139,4 @@ def task_manager_menu():
         else:
             print("Invalid option. Please try again.")
 
-# Run the task manager menu
 task_manager_menu()
